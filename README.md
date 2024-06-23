@@ -9,7 +9,6 @@ This SOC project is about stock price predictions.
 - **assignment1.pdf**: Contains the report for the assignment.
 
 
-
 ## How to Use
 Simply run the python files after downloading/cloning from repo. Reports and problem statements can also be studied from respective assigments' folders.
 
