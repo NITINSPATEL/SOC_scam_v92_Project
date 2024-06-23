@@ -1,0 +1,30 @@
+
+Assignment 1
+
+1. Mentees are required to implement a
+LSTM model to train on any stock data of
+their choice from the time the stock was
+listed in the respective stock exchange
+upto (latest_available_data - 30) days.
+
+2. Now use this data to train the model and
+predict the prices for the upcoming 1
+week, 1 fortnight and 1 month and
+compare this with the actual available
+
+
+3. Try to reason out the differences and
+make a report regarding the same. The
+report doesn't need to be very detailed,
+but do include the architecture of the
+model, libraries used, data source and
+the process of loading the data, number
+of epochs, batch size, plot of loss of
+function against epochs, and also plot
+the predicted prices with actual prices.
+
+4. Deadline for the Assignment 1
+submission is 23rd June, 2024 (Saturday)
+EOD.
+
+
