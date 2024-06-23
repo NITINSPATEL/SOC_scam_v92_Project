@@ -1,10 +1,9 @@
-## Problem Statement
-
 # Files
 - **assignment1.txt**: Contains the problem statement.
 - **assignment1.py**: Contains the Python code used for the assignment.
 - **assignment1.pdf**: Contains the report for the assignment.
 
+## Problem Statement
 The assignment required us to:
 
 1. Select a stock of our choice (Apple Inc.).
