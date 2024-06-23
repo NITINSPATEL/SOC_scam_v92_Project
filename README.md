@@ -3,11 +3,15 @@
 This SOC project is about stock price predictions.
 
 1. **Assignment 1**
-The first assignment involved picking up any stock of our choice (I chose Apple Inc.) , train the model using previous data upto last_Available data - 30 days , and predict the price of next 30 days
-It consists of 3 files :
-\bullet assignment1.txt - having the problem statement
-\bullet assignment1.py - having the code for assignment
-\bullet assignment1.pdf - report for the assignment
+## Files
+- **assignment1.txt**: Contains the problem statement.
+- **assignment1.py**: Contains the Python code used for the assignment.
+- **assignment1.pdf**: Contains the report for the assignment.
+
+
+
+## How to Use
+Simply run the python files after downloading/cloning from repo. Reports and problem statements can also be studied from respective assigments' folders.
 
 
 
