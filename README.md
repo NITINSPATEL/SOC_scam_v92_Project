@@ -3,13 +3,13 @@
 This SOC project is about stock price predictions.
 
 1. **Assignment 1**
-## Files
+Files <br>
 - **assignment1.txt**: Contains the problem statement.
 - **assignment1.py**: Contains the Python code used for the assignment.
 - **assignment1.pdf**: Contains the report for the assignment.
 
 2. **Assignment 2**
-## Files
+Files <br>
 - **assignment2.ipyb**: Contains the Python code used for the assignment.
 - **assignment2.pdf**: Contains the report for the assignment.
 
